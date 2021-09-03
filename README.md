@@ -13,4 +13,4 @@ This project is an implementation of a python based GUI for converting PDF docum
 
 All the prerequisites can be downloaded by running pip install -r requirements.txt 
 
-If any error with playing audio files using Pygame mixer copy libmpg123.dll file from pygame directory and paste it in C:/windows/system32 directory. Make sure to reboot after this problem if error persists.
+If any error with playing audio files using Pygame mixer copy libmpg123.dll file from pygame directory and paste it in C:/windows/system32 directory. Make sure to reboot after this if error persists.
